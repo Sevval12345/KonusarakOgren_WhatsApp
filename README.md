@@ -2,8 +2,11 @@
 
 1. Hedef Platform Araştırması
    a. Reddit’te En Aktif Topluluklar
+
    a.1. r/languagelearning: Genel dil öğrenme forumu, 3 milyon+ üye, haftalık “Speaking Marathons”, yeni başlayanlar için rehberler. 2.3M üye. (https://www.reddit.com/r/languagelearning/)
+
    a.2. r/language_exchange: Dil değişimi odaklı, hem yazılı hem sesli pratik amacıyla kullanılıyor 191K üye. (https://www.reddit.com/r/language_exchange/).
+
    a.3. r/learn[language] örneğin r/learnspanish, r/LearnChinese, r/learnfrench...: Her biri kendi dilinde aktif diyaloglar mevcut (https://www.reddit.com/r/thisorthatlanguage/comments/nrefwh/giant_list_of_language_learning_subreddits/).
 
   En Çok Etkileşim Alan İçerik Türleri:

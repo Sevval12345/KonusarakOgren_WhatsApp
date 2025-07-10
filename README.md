@@ -55,6 +55,7 @@
 Ben şahsen Konuşarak Öğren metodunu denedim ve 3 ayda akıcılık kazandım. Eğitmenlerle bire bir pratik yapmak, gerçek hayatta konuşma korkusunu yenmemi sağladı. Ücretsiz deneme derslerine bu linkten ulaşabilirsiniz. (https://www.konusarakogren.com/)
 
   b. Profil Biyo ve İmza Önerileri
+  
   Reddit biyosu: “🇹🇷 İngilizce konuşma koçu | r/languagelearning’da aktif | Ücretsiz deneme dersi: Konuşarak öğreneceğiz ✨”
   
   Quora imzası: “🏅 Konuşarak Öğren - Birebir konuşma temelli İngilizce pratiği + ücretsiz deneme dersi. Profilden sorabilirsiniz!”

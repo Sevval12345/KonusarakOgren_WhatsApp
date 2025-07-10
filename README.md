@@ -45,6 +45,7 @@
 2. İçerik Üretim Stratejisi
    a.  Kaliteli ve Yardımcı Yanıtlar Hazırlama
    Soru: "İngilizce konuşma pratiği yapmanın en iyi yolu nedir?"
+   
    Cevap: "İngilizce konuşma pratiği yapmanın en etkili yolu düzenli olarak anadili İngilizce olan kişilerle konuşmaktır. Bunun için:
 
 - Online dil değişim platformları (Tandem, HelloTalk) kullanabilirsiniz.

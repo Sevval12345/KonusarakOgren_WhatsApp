@@ -56,6 +56,7 @@ Ben şahsen Konuşarak Öğren metodunu denedim ve 3 ayda akıcılık kazandım.
 
   b. Profil Biyo ve İmza Önerileri
   Reddit biyosu: “🇹🇷 İngilizce konuşma koçu | r/languagelearning’da aktif | Ücretsiz deneme dersi: Konuşarak öğreneceğiz ✨”
+  
   Quora imzası: “🏅 Konuşarak Öğren - Birebir konuşma temelli İngilizce pratiği + ücretsiz deneme dersi. Profilden sorabilirsiniz!”
 
   c. Doğal Marka Entegrasyonu

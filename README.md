@@ -61,18 +61,26 @@ Ben şahsen Konuşarak Öğren metodunu denedim ve 3 ayda akıcılık kazandım.
   Quora imzası: “🏅 Konuşarak Öğren - Birebir konuşma temelli İngilizce pratiği + ücretsiz deneme dersi. Profilden sorabilirsiniz!”
 
   c. Doğal Marka Entegrasyonu
+  
   "Ben şahsen denedim, işe yarıyor" diyerek kişisel deneyim paylaş ve kullanıcıların dikkatini çek.
+  
   "Ücretsiz deneme dersi var" diyerek CTA ekle.
+  
   "Konuşarak pratik yapmak en etkili yöntem" vurgusu yap.
 
 3. Uygulama ve İzleme
    Yüklediğim Excel dosyasına bakınız.
+   
    Her cevapta sonuna; “Ücretsiz deneme dersiyle devam etmek isteyenler DM atabilir” gibi nazik bir davet eklenebilir.
 
    3.a. Etkileşim Takibi İçin
+   
    Her yanıt için “upvotes”, “yorum”, “profil ziyareti sayısını” takip edilmeli ve Excel'e kaydedilmeli.
+   
    Aynı şekilde Quora’daki “views” ve “credits” sayısını düzenli olarak takip edilip kaydedilmeli.
 
    3.b. Web Site Trafiği İzleme
+   
    Share ettiğimiz linkleri UTM’lerle oluşturmalıyız.
+   
    Bitly ile link dönüşümlerini ayrıca takip edilmeli.
